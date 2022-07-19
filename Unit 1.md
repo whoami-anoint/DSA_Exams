@@ -33,7 +33,7 @@
     Data doesn’t depend on information, while information depends on data.
 
 11) What is abstract data type (ADT)?
-   - The abstract datatype is special kind of datatype, whose behavior is defined by a set of values and set of operations.
+    - The abstract datatype is special kind of datatype, whose behavior is defined by a set of values and set of operations.
 
 12) Define Record and field.
     - Record: Record is a collection of values or fields of a specific entity. Eg. An employee, Salary account, etc.
@@ -51,17 +51,17 @@
     - Merging is the practice of taking two or more groups of data in the form of a file or folder, and combining them into a single file or folder, respectively.
 
 16) Define complexity of Algorithms.
-   - Complexity of an algorithm is a measure of the amount of time and/or space required by an algorithm for an input of a given size (n).
+    - Complexity of an algorithm is a measure of the amount of time and/or space required by an algorithm for an input of a given size (n).
 
 17) What is worst Case Efficiency?
-   - Worst Case Efficiency - is the maximum number of steps that an algorithm can take for any collection of data values.
+    - Worst Case Efficiency - is the maximum number of steps that an algorithm can take for any collection of data values.
 
 18) What is control structure and give the syntax for selection statement.
-   - Control Structures can be considered as the building blocks of computer programs.
+    - Control Structures can be considered as the building blocks of computer programs.
     The selection control structure allows one set of statements to be executed if a condition is true and another set of actions to be executed if a condition is false.
 
 19) Define Algorithm.
-   - An algorithm is a procedure used for solving a problem or performing a computation. 
+    - An algorithm is a procedure used for solving a problem or performing a computation. 
 
 20) What is best Case Efficiency?
-  - Best case efficiency is the minimum number of steps that an algorithm can take any collection of data values.
+   - Best case efficiency is the minimum number of steps that an algorithm can take any collection of data values.
