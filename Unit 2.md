@@ -52,38 +52,38 @@
      to the first element of the queue forming a circle.
 
 11) List any three applications of queues.
-   - Three Application of Queues in Data Structure: 
+    - Three Application of Queues in Data Structure: 
     a) Handling website traffic.
     b) Routers and switches in networking.
     c) Maintaining the playlist in media players.
 
 12) List any three applications of stack.
-   - Three Application of the Stack:
+    - Three Application of the Stack:
     a) Stacks can be used for Backtracking, i.e., to check parenthesis matching in an expression.
     b) It can also be used to convert one form of expression to another form.
     c) It can be used for systematic Memory Management.
 
 13) What is overflow with respect to stack?
-   - A stack overflow is an undesirable condition in which a particular computer program tries to use more
+    - A stack overflow is an undesirable condition in which a particular computer program tries to use more
     memory space than the call stack has available.
 
 14) What is top of stack?
-   - The top function returns the topmost element of the stack.
+    - The top function returns the topmost element of the stack.
 
 15) What is polish notation?
-    - Polish notation is a notation form for expressing arithmetic, logic and algebraic equations. 
+     - Polish notation is a notation form for expressing arithmetic, logic and algebraic equations. 
 
 16) Define Queue underflow.
-   - Queue underflow happens when trying to remove an element from an empty queue.
+    - Queue underflow happens when trying to remove an element from an empty queue.
 
 17) What is Dequeue? Give example.
-    - Deque or Double Ended Queue is a type of queue in which insertion and removal of elements can either 
+     - Deque or Double Ended Queue is a type of queue in which insertion and removal of elements can either 
     be performed from the front or the rear. 
     For example: You need to store undo/redo operations in a word processor.
 
 18) Expand LIFO and FIFO.
-   - FIFO is an abbreviation for first in, first out.
-   - LIFO is an abbreviation for Last in, first out is same as first in, last out (FILO).
+    - FIFO is an abbreviation for first in, first out.
+    - LIFO is an abbreviation for Last in, first out is same as first in, last out (FILO).
 
 19) How Insertion and deletion is performed on stack?
-    - A stack is an ordered list in which all insertions and deletions are made at one end,called the top.
+     - A stack is an ordered list in which all insertions and deletions are made at one end,called the top.
