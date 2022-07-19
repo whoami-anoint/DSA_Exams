@@ -64,4 +64,4 @@
     - An algorithm is a procedure used for solving a problem or performing a computation. 
 
 20) What is best Case Efficiency?
-   - Best case efficiency is the minimum number of steps that an algorithm can take any collection of data values.
+    - Best case efficiency is the minimum number of steps that an algorithm can take any collection of data values.
